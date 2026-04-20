@@ -2,5 +2,6 @@
 **Sobre mi**:<br>
 <br> Me gradué como **Técnico en Mantenimiento de Computadoras del ITCA-FEPADE** en el año 2005, en el año 2007 entre a trabajar como profesor idóneo de Informática en el **Instituto Nacional José María Peralta Lagos**; en el año 2012 se implementó el Bachillerato Técnico en Infraestructura Tecnológica y Servicios Informáticos (ITSI) y desde entonces imparto los Módulos de Área Técnica, en año 2013 me gradué como **Profesor de Matemáticas para Tercer Ciclo de Educación Básica y Media de la Universidad Pedagógica de El Salvador**.<br><br>
 **Técnologias**<br>
-<img width="355" height="142" alt="image" src="https://github.com/user-attachments/assets/b15839d2-0b9a-4744-a75c-4a0a351b1fcb" />
+<img width="355" height="142" alt="image" src="https://github.com/user-attachments/assets/b15839d2-0b9a-4744-a75c-4a0a351b1fcb" /> <img width="369" height="136" alt="image" src="https://github.com/user-attachments/assets/23f7c5e3-4ea2-4e95-a070-6de2543d15f2" />
+
 
